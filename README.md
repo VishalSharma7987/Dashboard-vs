@@ -1,6 +1,6 @@
-# Argon Admin Dashboard: React.js, Vite, Material UI - Dark & Light Mode
+# vishal Admin Dashboard: React.js, Vite, Material UI - Dark & Light Mode
 
-Welcome to Argon Admin Dashboard, a sleek and feature-rich solution built with React.js, Vite, and Material UI, offering both dark and light mode themes. Empower your project with 11 meticulously crafted pages, including data management, user interaction, and insightful chart displays.
+Welcome to vishal Admin Dashboard, a sleek and feature-rich solution built with React.js, Vite, and Material UI, offering both dark and light mode themes. Empower your project with 11 meticulously crafted pages, including data management, user interaction, and insightful chart displays.
 
 ## Features
 
@@ -15,7 +15,7 @@ Welcome to Argon Admin Dashboard, a sleek and feature-rich solution built with R
 
 ## Demo
 
-Explore the live demo of Argon Admin Dashboard [here](https://argon-admin-dashboard.web.app/).
+
 
 ## Get Started
 
@@ -23,15 +23,14 @@ Explore the live demo of Argon Admin Dashboard [here](https://argon-admin-dashbo
 2. Install dependencies: `npm install` or `yarn install`
 3. Start the development server: `npm run dev` or `yarn dev`
 
-## Screenshots
+
 
 ### Dark Mode
 
-![Dark Mode](https://res.cloudinary.com/duxego3ja/image/upload/v1709215626/argon-admin-dashboard/b6jztniqlakkglakrp4e.png)
+
 
 ### Light Mode
 
-![Light Mode](https://res.cloudinary.com/duxego3ja/image/upload/v1709215626/argon-admin-dashboard/qf006k0kwkhrgmefengy.png)
 
 
 ## Contributions and Feedback
