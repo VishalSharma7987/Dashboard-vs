@@ -39,7 +39,7 @@ We welcome contributions and feedback from the community to enhance and improve 
 
 ## Free to Use
 
-Argon Admin Dashboard is open-source and completely free to use. Download it, customize it, and streamline your operations with ease.
+vishal Admin Dashboard is open-source and completely free to use. Download it, customize it, and streamline your operations with ease.
 
 **Keywords:** React.js, Vite, Material UI, Admin Dashboard, Dark Mode, Light Mode, Data Management, Team Management, Calendar, Charts, Formik, Yup, Open Source.
 
